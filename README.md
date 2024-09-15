@@ -145,7 +145,3 @@
 ![72.png](72.png)
 73.png  
 ![73.png](73.png)
-74.png  
-![74.png](74.png)
-75.png  
-![75.png](75.png)
